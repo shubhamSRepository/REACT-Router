@@ -1,4 +1,3 @@
-https://github.com/shubhamSRepository?tab=repositories
 
 # Getting Started with Create React App
 
